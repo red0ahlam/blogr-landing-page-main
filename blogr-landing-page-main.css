@@ -1,23 +1,23 @@
 
 @font-face {
     font-family: "overpass-light";
-    src: url("../fonts/Overpass-Light.ttf");
+    src: url("used-fonts/Overpass-Light.ttf");
 }
 @font-face {
     font-family: "overpass-semibold";
-    src: url("../fonts/Overpass-SemiBold.ttf");
+    src: url("used-fonts/Overpass-SemiBold.ttf");
 }
 @font-face {
     font-family: "ubuntu-regular";
-    src: url("../fonts/Ubuntu-Regular.ttf");
+    src: url("used-fonts/Ubuntu-Regular.ttf");
 }
 @font-face {
     font-family: "ubuntu-medium";
-    src: url("../fonts/Ubuntu-Medium.ttf");
+    src: url("used-fonts/Ubuntu-Medium.ttf");
 }
 @font-face {
     font-family: "ubuntu-bold";
-    src: url("../fonts/Ubuntu-Bold.ttf");
+    src: url("used-fonts/Ubuntu-Bold.ttf");
 }
 
 :root {
